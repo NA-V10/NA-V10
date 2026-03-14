@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Naveen+(NiceBunny);Open+Source+Contributor;Machine+Learning+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+
 # Hi 👋 I'm Naveen (NiceBunny)
 Open Source Contributor • Machine Learning Enthusiast • Full Stack Developer
 
@@ -46,6 +48,10 @@ I actively contribute to major open source ecosystems.
 - Built intelligent solutions using machine learning techniques
 
 ## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,tensorflow,git,linux,figma" />
+</p>
 
 Python • Java • JavaScript  
 TensorFlow • Scikit-learn  
