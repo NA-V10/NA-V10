@@ -1,4 +1,4 @@
-# Hi 👋 I'm Naveen
+# Hi 👋 I'm Naveen (NiceBunny)
 Open Source Contributor • Machine Learning Enthusiast • Full Stack Developer
 
 ⚡ Fun fact: I turn coffee ☕ into code and ideas into projects.
