@@ -1,7 +1,7 @@
-Hi 👋 I'm Naveen
-Open Source Contributor • Machine Learning Enthusiast • Full Stack Developer
+## Hi 👋 I'm Naveen
+## Open Source Contributor • Machine Learning Enthusiast • Full Stack Developer
 
-I enjoy building intelligent applications and contributing to open source communities. My interests include Machine Learning, Deep Learning, Developer Tools, and Full Stack Development.
+## I enjoy building intelligent applications and contributing to open source communities. My interests include Machine Learning, Deep Learning, Developer Tools, and Full Stack Development.
 
 ## 🚀 About Me
 
