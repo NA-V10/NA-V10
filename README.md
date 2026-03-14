@@ -50,11 +50,6 @@ I actively contribute to major open source ecosystems.
 <img src="https://skillicons.dev/icons?i=python,java,js,react,tensorflow,git,linux,figma" />
 </p>
 
-Python • Java • JavaScript  
-TensorFlow • Scikit-learn  
-React • HTML • CSS  
-Git • Linux • Figma
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NA-V10&theme=react-dark)
