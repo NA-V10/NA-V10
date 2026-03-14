@@ -5,13 +5,9 @@ I enjoy building intelligent applications and contributing to open source commun
 
 ## 🚀 About Me
 
-💻 Active Open Source Contributor
-🤖 Passionate about Machine Learning & Deep Learning
-🧠 Solved 100+ problems on LeetCode
-🎨 Experience in UI/UX Design
-🌱 Currently learning advanced AI systems and system design
+I am a passionate developer and open source contributor with a strong interest in machine learning, deep learning, and full stack development. I enjoy building intelligent applications and contributing to impactful open source ecosystems such as Jenkins, VS Code, and DeepLearning projects. My work focuses on combining AI with modern development tools to create practical solutions that improve developer productivity and user experience. I am continuously learning and exploring advanced AI systems, system design, and scalable software development while collaborating with global developer communities.
 
-🌍 Open Source Contributions
+## 🌍 Open Source Contributions
 
 I actively contribute to major open source ecosystems.
 
@@ -30,7 +26,7 @@ I actively contribute to major open source ecosystems.
 - Code improvements and fixes
 - Documentation updates
 
-💼 Internships
+## 💼 Internships
 
 🎨 UI/UX Designer Intern
 - Designed user-friendly interfaces and improved overall user experience
