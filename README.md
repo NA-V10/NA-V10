@@ -44,3 +44,14 @@ I actively contribute to major open source ecosystems.
 - Developed machine learning models for data analysis and prediction
 - Worked with Python ML libraries and neural network concepts
 - Built intelligent solutions using machine learning techniques
+
+## 🛠 Tech Stack
+
+Python • Java • JavaScript  
+TensorFlow • Scikit-learn  
+React • HTML • CSS  
+Git • Linux • Figma
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NA-V10&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NA-V10&layout=compact)
