@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Naveen+(NiceBunny);Open+Source+Contributor;Machine+Learning+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
-⚡ Fun fact: I turn coffee ☕ into code and ideas into projects.
+⚡ Fun fact: I turn coffee ☕ into code and ideas into projects. 
 
 I enjoy building intelligent applications and contributing to open source communities. My interests include Machine Learning, Deep Learning, Developer Tools, and Full Stack Development.
 
