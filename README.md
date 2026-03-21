@@ -60,4 +60,4 @@ I actively contribute to major open source ecosystems.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NA-V10&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NA-V10&theme=algolia&no-frame=true&margin-w=10)
+
