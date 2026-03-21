@@ -54,6 +54,6 @@ I actively contribute to major open source ecosystems.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NA-V10&theme=react-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NA-V10&show_icons=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NA-V10&theme=tokyo-night)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NA-V10&layout=compact)
